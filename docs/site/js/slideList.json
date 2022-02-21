@@ -1,0 +1,76 @@
+[{
+    "filename": "00_01",
+    "title": "Does Sass Still Matter?" }
+,{
+    "filename": "00_02",
+    "title": "Using the Exercises" }
+,{
+    "filename": "01_01",
+    "title": "SASS Requirements" }
+,{
+    "filename": "99_01",
+    "title": "Next Steps" }
+,{
+    "filename": "demo",
+    "title": "Opinionated Reveal.js" }
+,{
+    "filename": "slides",
+    "title": "" }
+,{
+    "filename": "01_02",
+    "title": "Build Installation" }
+,{
+    "filename": "02_01",
+    "title": "SASS Syntax" }
+,{
+    "filename": "02_02",
+    "title": "Using Variables" }
+,{
+    "filename": "02_03",
+    "title": "Nesting" }
+,{
+    "filename": "02_04",
+    "title": "Partials" }
+,{
+    "filename": "02_05",
+    "title": "Parent Selector" }
+,{
+    "filename": "02_06",
+    "title": "Mixins" }
+,{
+    "filename": "02_07",
+    "title": "Extend" }
+,{
+    "filename": "02_08",
+    "title": "Mixins Problem" }
+,{
+    "filename": "03_01",
+    "title": "Interpolation" }
+,{
+    "filename": "03_03",
+    "title": "Comments" }
+,{
+    "filename": "03_02",
+    "title": "Placeholder Selectors" }
+,{
+    "filename": "03_04",
+    "title": "Using Lists" }
+,{
+    "filename": "03_05",
+    "title": "Each" }
+,{
+    "filename": "03_06",
+    "title": "For" }
+,{
+    "filename": "03_08",
+    "title": "Maps" }
+,{
+    "filename": "03_07",
+    "title": "Operators and Conditionals" }
+,{
+    "filename": "03_09",
+    "title": "Color Utilities" }
+,{
+    "filename": "03_10",
+    "title": "Badges Problem" }
+]
